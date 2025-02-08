@@ -10,15 +10,15 @@ This project is a tutorial on setting up Ollama to run on your local computer an
 
 ## Prerequisites
 
-- Python 3.7 or higher (I used 3.12)
+- Python 3.7 or higher (I used 3.12.4)
 - Pip (Python package manager)
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/yourusername/ollama-deepseek.git
+   cd ollama-deepseek
    ```
 
 2. **Install dependencies**:
